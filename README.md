@@ -23,8 +23,7 @@
 &emsp;&emsp;- 改善方式: **LINE APP是廣泛使用的通訊軟體**，透過問答式流程來提供線索給警方
 
 ## 流程說明
-
-
+![image](https://github.com/KakaCheng/Online_Report_System_Line_bot/blob/d5cf3957186226c52a45129d246b33853b520650/Readme_pic/00.png)
 
 ## 實際開發
 ### 訓練模型
@@ -48,7 +47,7 @@ gcloud builds submit  --tag gcr.io/$GOOGLE_CLOUD_PROJECT/online-report-system:1.
 5. 將生成的網址貼至Line Developer webhook
 
 ## 成果
-
+![image](https://github.com/KakaCheng/Online_Report_System_Line_bot/blob/d5cf3957186226c52a45129d246b33853b520650/Readme_pic/01.png)
 
 ## 參考資料
 \[1]: 
