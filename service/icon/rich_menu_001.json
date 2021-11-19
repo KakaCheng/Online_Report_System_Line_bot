@@ -1,0 +1,35 @@
+{
+    "size": {
+        "width": 2500,
+        "height": 843
+    },
+    "selected": true,
+    "name": "警民互助菜單",
+    "chatBarText": "警民互助功能表",
+    "areas": [
+        {
+            "bounds": {
+                "x": 0,
+                "y": 0,
+                "width": 1665,
+                "height": 843
+            },
+            "action": {
+                "type": "message",
+                "text": "::@我要通報"
+            }
+        },
+        {
+            "bounds": {
+                "x": 1666,
+                "y": 0,
+                "width": 2500,
+                "height": 843
+            },
+            "action": {
+                "type" : "uri",
+                "uri" : "https://165.npa.gov.tw/#/"
+            }
+        }
+    ]
+}

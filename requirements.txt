@@ -1,0 +1,13 @@
+flask
+gunicorn
+line-bot-sdk
+google-cloud-logging
+google-cloud-firestore
+google-cloud-storage
+mtcnn
+pillow
+dill
+scikit-learn==0.22.2.post1
+pandas
+tensorflow
+opencv-python
